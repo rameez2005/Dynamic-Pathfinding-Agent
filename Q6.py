@@ -27,7 +27,7 @@ COL_AGENT      = "#E67E22"
 COL_GRID_LINE  = "#BDC3C7"
 COL_DYNAMIC    = "#8E44AD"   # dynamically spawned obstacles
 
-# ─── Heuristic helpers ─────────────────────────────────────────────────────────
+# ─── Heuristic helpers 
 def manhattan(a, b):
     return abs(a[0] - b[0]) + abs(a[1] - b[1])
 
