@@ -15,7 +15,7 @@ import math
 import random
 import time
 
-# ─── Colour Palette ───────────────────────────────────────────────────────────
+# ─── Colour Palette 
 COL_EMPTY      = "#FFFFFF"
 COL_WALL       = "#2C3E50"
 COL_START      = "#E74C3C"
